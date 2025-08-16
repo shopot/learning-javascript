@@ -1,1 +1,1 @@
-# Learning JavaScript from Zero to Beginner
+# Learning JavaScript from Zero to Hero
