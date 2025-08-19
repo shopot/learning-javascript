@@ -39,3 +39,16 @@
 - [Цикл `for of`](docs/s05-Loops_and_iteration/s05-05-for-of/s05-05.1-for-of.md)
 - [Операторы `break` и `continue`](docs/s05-Loops_and_iteration/s05-06-break-and-continue/s05-06.1-break-and-continue.md)
 - [Вложенные циклы](docs/s05-Loops_and_iteration/s05-07-nested-loops/s05-07.1-nested-loops.md)
+
+### Функции
+
+- [Функции основы](docs/s06-Functions/s06-01-functions/s06-01.1-functions.md)
+- [Параметры и аргументы](docs/s06-Functions/s06-02-parameters-and-arguments/s06-02.1-parameters-and-arguments.md)
+- [Стрелочные функции](docs/s06-Functions/s06-03-arrow-functions/s06-03.1-arrow-functions.md)
+- [Возврат значений функций](docs/s06-Functions/s06-04-function-return/s06-04.1-function-return.md)
+- [Область видимости переменных в функциях](docs/s06-Functions/s06-05-scope-in-functions/s06-05.1-scope-in-functions.md)
+- [Immediately Invoked Function Expression](docs/s06-Functions/s06-06-IIFE/s06-06.1-IIFE.md)
+- [Рекурсивные функции](docs/s06-Functions/s06-07-recursive-functions/s06-07.1-recursive-functions.md)
+- [Вложенные функции](docs/s06-Functions/s06-08-nested-functions/s06-08.1-nested-functions.md)
+- [Анонимные функции](docs/s06-Functions/s06-09-anonymous-functions/s06-09.1-anonymous-functions.md)
+- [Функции обратного вызова](docs/s06-Functions/s06-10-callback-functions/s06-10.1-callback-functions.md)
