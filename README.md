@@ -52,3 +52,10 @@
 - [Вложенные функции](docs/s06-Functions/s06-08-nested-functions/s06-08.1-nested-functions.md)
 - [Анонимные функции](docs/s06-Functions/s06-09-anonymous-functions/s06-09.1-anonymous-functions.md)
 - [Функции обратного вызова](docs/s06-Functions/s06-10-callback-functions/s06-10.1-callback-functions.md)
+
+#### Классы
+
+- [Классы в JavaScript](docs/s07-Classes/s07-01-classes-in-js/s07-01.1-classes-in-js.md)
+- [Методы и свойства классов](docs/s07-Classes/s07-02-methods-and-properties/s07-02.1-methods-and-properties.md)
+- [Геттеры и сеттеры в JavaScript](docs/s07-Classes/s07-03-getters-and-setters/s07-03.1-getters-and-setters.md)
+- [Наследование и Прототипы](docs/s07-Classes/s07-04-inheritance-and-prototypes/s07-04.1-inheritance-and-prototypes.md)
