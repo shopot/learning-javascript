@@ -53,7 +53,7 @@
 - [Анонимные функции](docs/s06-Functions/s06-09-anonymous-functions/s06-09.1-anonymous-functions.md)
 - [Функции обратного вызова](docs/s06-Functions/s06-10-callback-functions/s06-10.1-callback-functions.md)
 
-#### Классы
+### Классы
 
 - [Классы в JavaScript](docs/s07-Classes/s07-01-classes-in-js/s07-01.1-classes-in-js.md)
 - [Методы и свойства классов](docs/s07-Classes/s07-02-methods-and-properties/s07-02.1-methods-and-properties.md)
