@@ -60,6 +60,13 @@
 - [Геттеры и сеттеры в JavaScript](docs/s07-Classes/s07-03-getters-and-setters/s07-03.1-getters-and-setters.md)
 - [Наследование и Прототипы](docs/s07-Classes/s07-04-inheritance-and-prototypes/s07-04.1-inheritance-and-prototypes.md)
 
+### Модули в JavaScript
+
+- [Модули основы](docs/s08-Modules/s08-01-modules/s08-01.1-modules.md)
+- [Модули в Node.js](docs/s08-Modules/s08-02-modules-in-node/s08-02.1-modules-in-node.md)
+- [Модули в ES6](docs/s08-Modules/s08-03-modules-in-es6/s08-03.1-modules-in-es6.md)
+- [Модули в Web](docs/s08-Modules/s08-04-modules-in-web/s08-04.1-modules-in-web.md)
+
 ### Асинхронность в JavaScript
 
 - [Функции обратного вызова](docs/s11-Async_JS/s11-01-callback-functions/s11-01.1-callback-functions.md)
@@ -68,9 +75,3 @@
 - [Цикл Событий (Event Loop)](docs/s11-Async_JS/s11-04-event-loop/s11-04.1-event-loop.md)
 - [Асинхронные итераторы и генераторы](docs/s11-Async_JS/s11-05-asynchronous-iteration/s11-05.1-asynchronous-iteration.md)
 
-### Модули в JavaScript
-
-- [Модули основы](docs/s08-Modules/s08-01-modules/s08-01.1-modules.md)
-- [Модули в Node.js](docs/s08-Modules/s08-02-modules-in-node/s08-02.1-modules-in-node.md)
-- [Модули в ES6](docs/s08-Modules/s08-03-modules-in-es6/s08-03.1-modules-in-es6.md)
-- [Модули в Web](docs/s08-Modules/s08-04-modules-in-web/s08-04.1-modules-in-web.md)
