@@ -62,8 +62,8 @@
 
 ### Асинхронность в JavaScript
 
-- [Функции обратного вызова](docs/s10-Async_JS/s10-01-callback-functions/s10-01.1-callback-functions.md)
-- [Промисы](docs/s10-Async_JS/s10-02-promises/s10-02.1-promises.md)
-- [Операторы async и await](docs/s10-Async_JS/s10-03-async-await/s10-03.1-async-await.md)
-- [Цикл Событий (Event Loop)](docs/s10-Async_JS/s10-04-event-loop/s10-04.1-event-loop.md)
-- [Асинхронные итераторы и генераторы](docs/s10-Async_JS/s10-05-asynchronous-iteration/s10-05.1-asynchronous-iteration.md)
+- [Функции обратного вызова](docs/s11-Async_JS/s11-01-callback-functions/s11-01.1-callback-functions.md)
+- [Промисы](docs/s11-Async_JS/s11-02-promises/s11-02.1-promises.md)
+- [Операторы async и await](docs/s11-Async_JS/s11-03-async-await/s11-03.1-async-await.md)
+- [Цикл Событий (Event Loop)](docs/s11-Async_JS/s11-04-event-loop/s11-04.1-event-loop.md)
+- [Асинхронные итераторы и генераторы](docs/s11-Async_JS/s11-05-asynchronous-iteration/s11-05.1-asynchronous-iteration.md)
