@@ -59,3 +59,10 @@
 - [Методы и свойства классов](docs/s07-Classes/s07-02-methods-and-properties/s07-02.1-methods-and-properties.md)
 - [Геттеры и сеттеры в JavaScript](docs/s07-Classes/s07-03-getters-and-setters/s07-03.1-getters-and-setters.md)
 - [Наследование и Прототипы](docs/s07-Classes/s07-04-inheritance-and-prototypes/s07-04.1-inheritance-and-prototypes.md)
+
+### Асинхронность в JavaScript
+
+- [Функции обратного вызова](docs/s09-Async_JS/s09-01-callback-functions/s09-01.1-callback-functions.md)
+- [Промисы](docs/s09-Async_JS/s09-02-promises/s09-02.1-promises.md)
+- [Операторы async и await](docs/s09-Async_JS/s09-03-async-await/s09-03.1-async-await.md)
+- [Цикл Событий (Event Loop)](docs/s09-Async_JS/s09-04-event-loop/s09-04.1-event-loop.md)
