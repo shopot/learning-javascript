@@ -88,3 +88,8 @@
 - [Цикл Событий (Event Loop)](docs/s11-Async_JS/s11-04-event-loop/s11-04.1-event-loop.md)
 - [Асинхронные итераторы и генераторы](docs/s11-Async_JS/s11-05-asynchronous-iteration/s11-05.1-asynchronous-iteration.md)
 
+### Регулярные выражения
+
+- [Сопоставление шаблонов](docs/s12-Regular_Expressions/s12-01-pattern-matching/s12-01.1-pattern-matching.md)
+- [Строковые методы](docs/s12-Regular_Expressions/s12-02-string-methods/s12-02.1-string-methods.md)
+- [Класс RegExp](docs/s12-Regular_Expressions/s12-03-regexp-class/s12-03.1-regexp-class.md)
