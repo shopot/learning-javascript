@@ -67,6 +67,19 @@
 - [Модули в ES6](docs/s08-Modules/s08-03-modules-in-es6/s08-03.1-modules-in-es6.md)
 - [Модули в Web](docs/s08-Modules/s08-04-modules-in-web/s08-04.1-modules-in-web.md)
 
+### Стандартная библиотека JavaScript
+
+- [Коллекции Set, Map, WeakMap и WeakSet](docs/s09-Standard_Library/s09-01-sets-and-maps/s09-01.1-sets-and-maps.md)
+- [Типизированные массивы и бинарные данные](docs/s09-Standard_Library/s09-02-typed-arrays-and-binary-data/s09-02.1-typed-arrays-and-binary-data.md)
+- [Регулярные выражения основы](docs/s09-Standard_Library/s09-03-regular-expressions/s09-03.1-regular-expressions.md)
+- [Дата и время](docs/s09-Standard_Library/s09-04-dates-and-times/s09-04.1-dates-and-times.md)
+- [Error classes](docs/s09-Standard_Library/s09-05-error-classes)
+- [Работа с JSON](docs/s09-Standard_Library/s09-06-json-serialization-and-parsing/s09-06.1-json-serialization-and-parsing.md)
+- [Internationalization API](docs/s09-Standard_Library/s09-07-Intl/s09-07.1-Intl.md)
+- [Console API](docs/s09-Standard_Library/s09-08-console-api/s09-08.1-console-api.md)
+- [URL API](docs/s09-Standard_Library/s09-09-url-api/s09-09.1-url-api.md)
+- [Таймеры](docs/s09-Standard_Library/s09-10-timers/s09-10.1-timers.md)
+
 ### Асинхронность в JavaScript
 
 - [Функции обратного вызова](docs/s11-Async_JS/s11-01-callback-functions/s11-01.1-callback-functions.md)
